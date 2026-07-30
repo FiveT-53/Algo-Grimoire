@@ -1,2 +1,3 @@
 # Algo-Grimoire
-Notes about algorithm. 
+
+Notes about algorithm.  
