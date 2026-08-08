@@ -146,6 +146,8 @@ public:
 
 ## 六、练习题清单
 
+感谢灵神开源：[滑动窗口（定长）题单](https://leetcode.cn/discuss/post/3578981/ti-dan-hua-dong-chuang-kou-ding-chang-bu-rzz7/)
+
 ### 6.1 基础
 
 | 难度 | 题目 | 题号 | 题解 |
@@ -155,9 +157,9 @@ public:
 | 中等 | [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | 1343 | [题解](../../leetcode/sliding-window/1343-leetcode.md) |
 | 中等 | [2090. 半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages/)                                                             | 2090 | [题解](../../leetcode/sliding-window/2090-leetcode.md) |
 | 简单 | [2379. 得到 K 个黑块的最少涂色次数](https://leetcode-cn.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)                                   | 2379 | [题解](../../leetcode/sliding-window/2379-leetcode.md) |
-| 中等 | [2841. 几乎唯一子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-almost-unique-subarray/)                                                    | 2841 | -    |
-| 中等 | [2461. 长度为 K 子数组中的最大和](https://leetcode-cn.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                                       | 2461 | -    |
-| 中等 | [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)                                                    | 1423 | -    |
+| 中等 | [2841. 几乎唯一子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-almost-unique-subarray/)                                                    | 2841 | [题解](../../leetcode/sliding-window/2841-leetcode.md)    |
+| 中等 | [2461. 长度为 K 子数组中的最大和](https://leetcode-cn.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                                       | 2461 | [题解](../../leetcode/sliding-window/2461-leetcode.md)    |
+| 中等 | [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)                                                    | 1423 | [题解](../../leetcode/sliding-window/1423-leetcode.md)    |
 
 ### 6.2 进阶（选做）
 
