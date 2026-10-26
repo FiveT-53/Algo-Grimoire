@@ -90,3 +90,8 @@ public:
 ## 易错点
 
 - 优化思路：本题可以将除法优化为乘法，即 sum >= threshold * k。
+
+## 边界自测
+
+- arr=[1,1,1,1,1], k=1, threshold=0 → 5。
+- 验证入口与运行状态见[验证说明](../../docs/validation.md)。

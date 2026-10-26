@@ -102,7 +102,7 @@ public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int sum = 0, ans = nums.size() + 1;
         int left = 0;
-        
+
         //for循环：扩展右端点
         for(int right = 0; right < nums.size(); right++){
             sum += nums[right];
