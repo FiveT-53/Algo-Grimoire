@@ -141,15 +141,29 @@ public:
 
 ## 七、练习题清单
 
-### 1. 越短越合法 / 求最长 / 最大
+### 已写题解与专题例题
 
-#### 1.1 基础
-
-| 难度 | 题目                                                                                                     | 题号   | 题解 |
-| -- | ------------------------------------------------------------------------------------------------------ | ---- | -- |
+| 难度 | 题目 | 题号 | 题解 |
+| --- | --- | --- | --- |
 | 中等 | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 3    | [题解](../../leetcode/sliding-window/3-leetcode.md) |
 | 简单 | [每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/)       | 3090 | [题解](../../leetcode/sliding-window/3090-leetcode.md) |
 | 中等 | [删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) | 1493 | [题解](../../leetcode/sliding-window/1493-leetcode.md) |
+| 中等 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)                                       | 209  | 例题 |
+| 中等 | [不同元素和至少为 K 的最短子数组长度](https://leetcode.cn/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | 3795 | [题解](../../leetcode/sliding-window/3795-leetcode.md) |
+| 中等 | [最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 2904 | [题解](../../leetcode/sliding-window/2904-leetcode.md) |
+| 中等 | [包含所有三种字符的子字符串数目](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/) | 1358 | [题解](../../leetcode/sliding-window/1358-leetcode.md) |
+| 中等 | [统计最大元素出现至少 K 次的子数组](https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | 2962 | [题解](../../leetcode/sliding-window/2962-leetcode.md) |
+| 中等 | [和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/)                                         | 930  | [题解](../../leetcode/sliding-window/930-leetcode.md) |
+| 中等 | [统计「优美子数组」](https://leetcode.cn/problems/count-number-of-nice-subarrays/)                                    | 1248 | [题解](../../leetcode/sliding-window/1248-leetcode.md) |
+
+### 后续练习（尚未收录题解）
+
+#### 1. 越短越合法 / 求最长 / 最大
+
+##### 1.1 基础
+
+| 难度 | 题目                                                                                                     | 题号   | 题解 |
+| -- | ------------------------------------------------------------------------------------------------------ | ---- | -- |
 | 中等 | [使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/)                        | 3634 | -  |
 | 中等 | [尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)                          | 1208 | -  |
 | 中等 | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)                                               | 904  | -  |
@@ -158,7 +172,7 @@ public:
 | 中等 | [考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/)                            | 2024 | -  |
 | 中等 | [最大连续 1 的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)                               | 1004 | -  |
 
-#### 1.2 进阶
+##### 1.2 进阶
 
 | 难度 | 题目                                                                                                       | 题号   | 题解 |
 | -- | -------------------------------------------------------------------------------------------------------- | ---- | -- |
@@ -181,21 +195,18 @@ public:
 | 困难 | [执行操作使频率分数最大](https://leetcode.cn/problems/apply-operations-to-maximize-frequency-score/)                | 2968 | -  |
 | 中等 | [移动石子直到连续 II](https://leetcode.cn/problems/moving-stones-until-consecutive-ii/)                          | 1040 | -  |
 
-### 2. 越长越合法 / 求最短 / 最小
+#### 2. 越长越合法 / 求最短 / 最小
 
 | 难度 | 题目                                                                                                        | 题号   | 题解 |
 | -- | --------------------------------------------------------------------------------------------------------- | ---- | -- |
-| 中等 | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)                                       | 209  | 例题 |
-| 中等 | [不同元素和至少为 K 的最短子数组长度](https://leetcode.cn/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | 3795 | [题解](../../leetcode/sliding-window/3795-leetcode.md) |
-| 中等 | [最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 2904 | [题解](../../leetcode/sliding-window/2904-leetcode.md) |
 | 中等 | [替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/)                    | 1234 | -  |
 | 中等 | [无限数组的最短子数组](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array/)                       | 2875 | -  |
 | 困难 | [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)                                          | 76   | -  |
 | 困难 | [最小区间](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/)                       | 632  | -  |
 
-### 3. 求子数组个数
+#### 3. 求子数组个数
 
-#### 3.1 越短越合法
+##### 3.1 越短越合法
 
 | 难度 | 题目                                                                                               | 题号     | 题解 |
 | -- | ------------------------------------------------------------------------------------------------ | ------ | -- |
@@ -205,24 +216,20 @@ public:
 | 中等 | [不间断子数组](https://leetcode.cn/problems/continuous-subarrays/)                                     | 2762   | -  |
 | 中等 | [美观的花束](https://leetcode.cn/problems/1GxJYY/)                                                    | LCP 68 | -  |
 
-#### 3.2 越长越合法
+##### 3.2 越长越合法
 
 | 难度 | 题目                                                                                                                        | 题号   | 题解 |
 | -- | ------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
-| 中等 | [包含所有三种字符的子字符串数目](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/) | 1358 | [题解](../../leetcode/sliding-window/1358-leetcode.md) |
-| 中等 | [统计最大元素出现至少 K 次的子数组](https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | 2962 | [题解](../../leetcode/sliding-window/2962-leetcode.md) |
 | 中等 | [字符至少出现 K 次的子字符串 I](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-i/)                         | 3325 | -  |
 | 简单 | [统计字符串中的元音子字符串](https://leetcode.cn/problems/count-vowel-substrings-of-a-string/)                                         | 2062 | -  |
 | 中等 | [统计完全子数组的数目](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/)                                          | 2799 | -  |
 | 中等 | [统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/)                                             | 2537 | -  |
 | 困难 | [统计重新排列后包含另一个字符串的子字符串数目 II](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | 3298 | -  |
 
-#### 3.3 恰好型滑动窗口
+##### 3.3 恰好型滑动窗口
 
 | 难度 | 题目                                                                                                           | 题号   | 题解 |
 | -- | ------------------------------------------------------------------------------------------------------------ | ---- | -- |
-| 中等 | [和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/)                                         | 930  | [题解](../../leetcode/sliding-window/930-leetcode.md) |
-| 中等 | [统计「优美子数组」](https://leetcode.cn/problems/count-number-of-nice-subarrays/)                                    | 1248 | [题解](../../leetcode/sliding-window/1248-leetcode.md) |
 | 中等 | [元音辅音字符串计数 II](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 3306 | -  |
 | 困难 | [K 个不同整数的子数组](https://leetcode.cn/problems/subarrays-with-k-different-integers/)                             | 992  | -  |
 | 困难 | [统计包含 K 个不同整数的子数组](https://leetcode.cn/problems/count-subarrays-with-k-distinct-integers/)                   | 3859 | -  |

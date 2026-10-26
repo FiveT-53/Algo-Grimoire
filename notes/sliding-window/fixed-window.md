@@ -148,12 +148,10 @@ public:
 
 ## 六、练习题清单
 
-感谢灵神开源：[滑动窗口（定长）题单](https://leetcode.cn/discuss/post/3578981/ti-dan-hua-dong-chuang-kou-ding-chang-bu-rzz7/)
-
-### 6.1 基础
+### 已写题解与专题例题
 
 | 难度 | 题目 | 题号 | 题解 |
-| -- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
+| --- | --- | --- | --- |
 | 中等 | [1456. 定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)                                 | 1456 | [本文例题](#三典型例题) |
 | 简单 | [643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)                                                                 | 643  | [题解](../../leetcode/sliding-window/643-leetcode.md) |
 | 中等 | [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | 1343 | [题解](../../leetcode/sliding-window/1343-leetcode.md) |
@@ -163,7 +161,16 @@ public:
 | 中等 | [2461. 长度为 K 子数组中的最大和](https://leetcode-cn.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                                       | 2461 | [题解](../../leetcode/sliding-window/2461-leetcode.md)    |
 | 中等 | [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)                                                    | 1423 | [题解](../../leetcode/sliding-window/1423-leetcode.md)    |
 
-### 6.2 进阶（选做）
+### 后续练习（尚未收录题解）
+
+感谢灵神开源：[滑动窗口（定长）题单](https://leetcode.cn/discuss/post/3578981/ti-dan-hua-dong-chuang-kou-ding-chang-bu-rzz7/)
+
+##### 6.1 基础
+
+| 难度 | 题目 | 题号 | 题解 |
+| -- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
+
+##### 6.2 进阶（选做）
 
 | 难度 | 题目                                                                                                                          | 题号   | 题解 |
 | -- | --------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
